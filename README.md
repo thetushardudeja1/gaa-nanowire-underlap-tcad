@@ -5,6 +5,8 @@
 > **Status.** This device was my individual entry to the **IEEE Electron Devices Society TCAD Hackathon 2026**, where it placed in the **top three** internationally ([IEEE EDS competitions](https://eds.ieee.org/education/competitions)). This repository documents the device, method and results. Simulation decks, meshes and raw data are **not released** (see [What is not released](#what-is-not-released-and-why)).
 >
 > This work may be submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
+>
+> **Please note.** The figures and results on this page are the author's own and are shown here for information. Do not copy, adapt or redistribute any part of this page without the author's written permission.
 
 <p align="center"><img src="figures/F1_architecture.png" width="760" alt="Device architecture, mesh and doping"></p>
 <p align="center"><em>Figure 1. (a) Materials of the cylindrical n-channel nanowire FET. (b) Adaptive mesh with refinement at the drain-side gate edge. (c) Net donor concentration; the inset shows the 1 nm undoped strip that sets the drain junction back from the gate edge.</em></p>
